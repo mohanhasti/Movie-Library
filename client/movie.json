@@ -1,0 +1,34 @@
+[
+  {
+    "name":"Aruvi",
+    "year":"2017",
+    "rating":"4",
+    "img":"images\tamil\\aruvi.jpg"
+  },
+  {
+    "name":"Baahubali 2",
+    "year":"2017",
+    "rating":"5",
+    "img":"images\tamil\bb2.jpg"
+  },
+  {
+    "name":"Mersal",
+    "year":"2018",
+    "rating":"4.5",
+    "img":"images\tamil\mersal.jpg"
+  },
+  {
+    "name":"Robo2",
+    "year":"2018",
+    "rating":"4.5",
+    "img":"images\tamil\robo.jpg"
+  },
+  {
+    "name":"Vivegam",
+    "year":"2017",
+    "rating":"4",
+    "img":"images\tamil\vivagan.jpg"
+  },
+
+
+]
