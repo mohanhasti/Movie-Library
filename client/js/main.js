@@ -49,5 +49,8 @@ function formObject(response){
       var categoryTitle=$('<h3 class="categoryName">'+objectSchema.category+'</h3>');
       categoryContent.push(categoryTitle);
     }
+    for(i=0;i<data.length;i++){
+      var categoryTitle=$('<div class="pic">'+objectSchema.category+'</h3>');
+    }
     $('section.content').html(categoryContent);
   }
